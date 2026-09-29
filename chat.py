@@ -8,7 +8,7 @@ while True:
 
     if choice == "1":
         question = input("Your question: ")
-        answer, memory = ask_agent(borrower, question)
+        answer, memory, _ = ask_agent(borrower, question)
         print("\n--- What I remember ---\n" + memory)
         print("\n--- My advice ---\n" + answer)
 
