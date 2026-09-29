@@ -7,7 +7,9 @@ Loan recovery agents make 40–50 calls a day. Every call starts from zero: *Who
 - **Without memory:** "Be polite and ask when they can pay." (generic)
 - **With memory:** "He broke 2 promises, only answers after 7 pm, a firm tone worked last time. Ask for a same-day UPI part-payment of ₹10,000." (personal)
 
-![Memory off vs on](screenshots/memory-off-vs-on.png)
+▶️ **[Watch the 3-minute demo](https://youtu.be/EutEFHR-4qQ)**
+
+<!-- Add screenshot: ![Memory off vs on](screenshots/memory-off-vs-on.png) -->
 
 ## Features
 
@@ -46,7 +48,7 @@ Call logged ->  retain (borrower bank + team-playbook)
 ## How to run
 
 ```bash
-git clone YOUR-GITHUB-LINK
+git clone https://github.com/saiprasannajuluri/memory-agent.git
 cd memory-agent
 python -m venv venv
 venv\Scripts\activate          # Mac/Linux: source venv/bin/activate
@@ -84,4 +86,5 @@ All borrower data is **fictional**, generated for demonstration. No real custome
 
 - Hindsight: https://github.com/vectorize-io/hindsight
 - Hindsight docs: https://hindsight.vectorize.io
-- Demo video: YOUR-YOUTUBE-LINK
+- Demo video: https://youtu.be/EutEFHR-4qQ
+- Article: [Reflect, Then Retain: How My Hindsight Agent Writes Its Own Playbook](https://medium.com/@saiprasannajuluri/reflect-then-retain-how-my-hindsight-agent-writes-its-own-playbook-b9b021d9262b)
