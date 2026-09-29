@@ -1,0 +1,900 @@
+[
+  {
+    "id": "borrower-3001",
+    "name": "Ravi Kumar Goud",
+    "area": "Tolichowki",
+    "car": "Hyundai Venue",
+    "emi": 14100,
+    "calls": [
+      {
+        "date": "2026-07-05T05:15:00Z",
+        "notes": "Missed EMI of Rs 14100. Ravi Kumar Goud runs a mobile repair shop; said GST refund delayed. Very apologetic, polite. Promised to pay by 10 Jul."
+      },
+      {
+        "date": "2026-07-15T05:15:00Z",
+        "notes": "Paid Rs 14100 on 10 Jul as promised. Thanked us for being patient. Best reached before 10 am."
+      },
+      {
+        "date": "2026-07-29T05:15:00Z",
+        "notes": "EMI due again, not paid. Said had to pay advance for a new shop. Asked for 7 more days. Calm, respectful tone works well with Ravi."
+      },
+      {
+        "date": "2026-08-07T05:15:00Z",
+        "notes": "Paid half (Rs 7050) and promised balance by 10 Aug. Honest about finances, shares details openly."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3002",
+    "name": "Srinivas Reddy",
+    "area": "Miyapur",
+    "car": "Toyota Innova Crysta",
+    "emi": 32950,
+    "calls": [
+      {
+        "date": "2026-07-04T14:45:00Z",
+        "notes": "EMI of Rs 32950 overdue. Srinivas Reddy drives the car for Ola/Uber. Said had to pay advance for a new shop. Promised full payment by 08 Jul. Very confident on the phone."
+      },
+      {
+        "date": "2026-07-14T14:45:00Z",
+        "notes": "Did NOT pay on promised date. New excuse: car was in the service centre for 10 days and no Uber income. Promised again for next Monday. Sounds casual, not worried."
+      },
+      {
+        "date": "2026-07-26T14:45:00Z",
+        "notes": "Broke promise again. Now 2 EMIs overdue (Rs 65900). Said 'bro definitely this week'. Pattern: promises easily, rarely pays."
+      },
+      {
+        "date": "2026-08-08T14:45:00Z",
+        "notes": "Firm tone used, mentioned possible field visit and repossession process. Paid Rs 32950 within 2 days. Firmness works, soft requests don't."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3003",
+    "name": "Mohammed Irfan",
+    "area": "Kondapur",
+    "car": "Tata Punch",
+    "emi": 10100,
+    "calls": [
+      {
+        "date": "2026-07-02T08:00:00Z",
+        "notes": "Called for overdue EMI Rs 10100. Mohammed Irfan got angry, shouted 'I know, don't call me again'. Said got laid off and is looking for a job. Call ended abruptly."
+      },
+      {
+        "date": "2026-07-13T08:00:00Z",
+        "notes": "Second call. Still irritated but calmer. Complained about bounce charges of Rs 590. Refused to give a date."
+      },
+      {
+        "date": "2026-07-24T08:00:00Z",
+        "notes": "Senior agent called, spoke softly, offered to check bounce charge waiver. Mohammed calmed down and promised 30 Jul."
+      },
+      {
+        "date": "2026-08-06T08:00:00Z",
+        "notes": "Paid Rs 10100 on promised date. Lesson: aggression makes him defensive; respect + small concession works. Call on Sunday mornings."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3004",
+    "name": "Lakshmi Prasanna",
+    "area": "Ameerpet",
+    "car": "Tata Nexon",
+    "emi": 16050,
+    "calls": [
+      {
+        "date": "2026-07-04T14:00:00Z",
+        "notes": "EMI Rs 16050 overdue. 6 calls, no answer. Sent WhatsApp message, blue ticks seen but no reply."
+      },
+      {
+        "date": "2026-07-13T14:00:00Z",
+        "notes": "Picked up from a different number. Lakshmi Prasanna runs a travels business with 2 cars; said had to pay advance for a new shop. Promised 18 Jul. Asked us to WhatsApp instead of calling."
+      },
+      {
+        "date": "2026-07-27T14:00:00Z",
+        "notes": "Did not pay. Not picking calls again. Responded only to WhatsApp message with payment link, said 'will do tonight'."
+      },
+      {
+        "date": "2026-08-06T14:00:00Z",
+        "notes": "Paid Rs 16050 via the WhatsApp payment link at 11 pm. Insight: avoids voice calls, responds to WhatsApp + payment links."
+      },
+      {
+        "date": "2026-08-17T14:00:00Z",
+        "notes": "Overdue again. Said business slow because of the rains over WhatsApp voice note. Promised in 10 days."
+      },
+      {
+        "date": "2026-08-26T14:00:00Z",
+        "notes": "Paid via link after 2 WhatsApp reminders. If a call is needed, only picks up on Sunday mornings."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3005",
+    "name": "Venkatesh Yadav",
+    "area": "Begumpet",
+    "car": "Hyundai Creta",
+    "emi": 21800,
+    "calls": [
+      {
+        "date": "2026-07-04T14:30:00Z",
+        "notes": "EMI Rs 21800 overdue. Venkatesh Yadav is a real-estate agent; said got laid off and is looking for a job. Vague about dates. Lives in a joint family."
+      },
+      {
+        "date": "2026-07-18T14:30:00Z",
+        "notes": "Missed promised date. Guarantor (father-in-law) was informed politely. Venkatesh paid Rs 21800 within 3 days after that."
+      },
+      {
+        "date": "2026-08-01T14:30:00Z",
+        "notes": "Due again, not paid. Said daughter's school fees took all savings. Reluctant, keeps saying 'next week'."
+      },
+      {
+        "date": "2026-08-15T14:30:00Z",
+        "notes": "Informed guarantor again. Paid next day. Pattern: pays quickly once family knows; doesn't want elders involved."
+      },
+      {
+        "date": "2026-08-24T14:30:00Z",
+        "notes": "Paid on time this month without follow-up. Only reachable between 1 and 2 pm (lunch break)."
+      },
+      {
+        "date": "2026-09-06T14:30:00Z",
+        "notes": "Asked us not to call the guarantor again, promised to pay on time. Keep guarantor contact as last resort."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3006",
+    "name": "Syed Abdul Rahman",
+    "area": "Begumpet",
+    "car": "Tata Nexon",
+    "emi": 16050,
+    "calls": [
+      {
+        "date": "2026-07-06T04:15:00Z",
+        "notes": "Missed EMI of Rs 16050. Syed Abdul Rahman is a real-estate agent; said car was in the service centre for 10 days and no Uber income. Very apologetic, polite. Promised to pay by 11 Jul."
+      },
+      {
+        "date": "2026-07-15T04:15:00Z",
+        "notes": "Paid Rs 16050 on 11 Jul as promised. Thanked us for being patient. Best reached after 8:30 pm."
+      },
+      {
+        "date": "2026-07-26T04:15:00Z",
+        "notes": "EMI due again, not paid. Said daughter's school fees took all savings. Asked for 7 more days. Calm, respectful tone works well with Syed."
+      },
+      {
+        "date": "2026-08-07T04:15:00Z",
+        "notes": "Paid half (Rs 8025) and promised balance by 07 Aug. Honest about finances, shares details openly."
+      },
+      {
+        "date": "2026-08-18T04:15:00Z",
+        "notes": "Paid the balance on time. Requested SMS reminder 3 days before due date. Low risk, just needs flexibility."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3007",
+    "name": "Kiran Kumar Naidu",
+    "area": "Dilsukhnagar",
+    "car": "Hyundai Venue",
+    "emi": 13900,
+    "calls": [
+      {
+        "date": "2026-07-05T05:15:00Z",
+        "notes": "EMI of Rs 13900 overdue. Kiran Kumar Naidu runs a small kirana store. Said GST refund delayed. Promised full payment by 09 Jul. Very confident on the phone."
+      },
+      {
+        "date": "2026-07-19T05:15:00Z",
+        "notes": "Did NOT pay on promised date. New excuse: had to pay advance for a new shop. Promised again for next Monday. Sounds casual, not worried."
+      },
+      {
+        "date": "2026-08-01T05:15:00Z",
+        "notes": "Broke promise again. Now 2 EMIs overdue (Rs 27800). Said 'bro definitely this week'. Pattern: promises easily, rarely pays."
+      },
+      {
+        "date": "2026-08-14T05:15:00Z",
+        "notes": "Firm tone used, mentioned possible field visit and repossession process. Paid Rs 13900 within 2 days. Firmness works, soft requests don't."
+      },
+      {
+        "date": "2026-08-25T05:15:00Z",
+        "notes": "Still 1 EMI pending. Promised 28 Aug, missed it. Only picks up calls after 7 pm. Ask for UPI payment during the call itself."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3008",
+    "name": "Anjali Sharma",
+    "area": "Kondapur",
+    "car": "Toyota Glanza",
+    "emi": 12400,
+    "calls": [
+      {
+        "date": "2026-07-01T04:15:00Z",
+        "notes": "Called for overdue EMI Rs 12400. Anjali Sharma got angry, shouted 'I know, don't call me again'. Said had to pay advance for a new shop. Call ended abruptly."
+      },
+      {
+        "date": "2026-07-15T04:15:00Z",
+        "notes": "Second call. Still irritated but calmer. Complained about bounce charges of Rs 590. Refused to give a date."
+      },
+      {
+        "date": "2026-07-25T04:15:00Z",
+        "notes": "Senior agent called, spoke softly, offered to check bounce charge waiver. Anjali calmed down and promised 31 Jul."
+      },
+      {
+        "date": "2026-08-08T04:15:00Z",
+        "notes": "Paid Rs 12400 on promised date. Lesson: aggression makes him defensive; respect + small concession works. Call between 11 am and 12 noon."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3009",
+    "name": "Praveen Chary",
+    "area": "Uppal",
+    "car": "Kia Carens",
+    "emi": 19400,
+    "calls": [
+      {
+        "date": "2026-07-05T14:30:00Z",
+        "notes": "EMI Rs 19400 overdue. 6 calls, no answer. Sent WhatsApp message, blue ticks seen but no reply."
+      },
+      {
+        "date": "2026-07-14T14:30:00Z",
+        "notes": "Picked up from a different number. Praveen Chary teaches at a private school; said business slow because of the rains. Promised 19 Jul. Asked us to WhatsApp instead of calling."
+      },
+      {
+        "date": "2026-07-25T14:30:00Z",
+        "notes": "Did not pay. Not picking calls again. Responded only to WhatsApp message with payment link, said 'will do tonight'."
+      },
+      {
+        "date": "2026-08-06T14:30:00Z",
+        "notes": "Paid Rs 19400 via the WhatsApp payment link at 11 pm. Insight: avoids voice calls, responds to WhatsApp + payment links."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3010",
+    "name": "Farhana Begum",
+    "area": "LB Nagar",
+    "car": "Kia Carens",
+    "emi": 19700,
+    "calls": [
+      {
+        "date": "2026-07-03T06:15:00Z",
+        "notes": "EMI Rs 19700 overdue. Farhana Begum runs a small kirana store; said a customer payment of Rs 60,000 is stuck. Vague about dates. Lives in a joint family."
+      },
+      {
+        "date": "2026-07-16T06:15:00Z",
+        "notes": "Missed promised date. Guarantor (father-in-law) was informed politely. Farhana paid Rs 19700 within 3 days after that."
+      },
+      {
+        "date": "2026-07-29T06:15:00Z",
+        "notes": "Due again, not paid. Said car was in the service centre for 10 days and no Uber income. Reluctant, keeps saying 'next week'."
+      },
+      {
+        "date": "2026-08-07T06:15:00Z",
+        "notes": "Informed guarantor again. Paid next day. Pattern: pays quickly once family knows; doesn't want elders involved."
+      },
+      {
+        "date": "2026-08-20T06:15:00Z",
+        "notes": "Paid on time this month without follow-up. Only reachable after 7 pm."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3011",
+    "name": "Naresh Mudiraj",
+    "area": "Nacharam",
+    "car": "Toyota Innova Crysta",
+    "emi": 33250,
+    "calls": [
+      {
+        "date": "2026-07-02T14:45:00Z",
+        "notes": "Missed EMI of Rs 33250. Naresh Mudiraj does wholesale garments business in Begum Bazaar; said medical expenses for mother's surgery. Very apologetic, polite. Promised to pay by 07 Jul."
+      },
+      {
+        "date": "2026-07-11T14:45:00Z",
+        "notes": "Paid Rs 33250 on 07 Jul as promised. Thanked us for being patient. Best reached between 11 am and 12 noon."
+      },
+      {
+        "date": "2026-07-24T14:45:00Z",
+        "notes": "EMI due again, not paid. Said business slow because of the rains. Asked for 7 more days. Calm, respectful tone works well with Naresh."
+      },
+      {
+        "date": "2026-08-03T14:45:00Z",
+        "notes": "Paid half (Rs 16625) and promised balance by 05 Aug. Honest about finances, shares details openly."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3012",
+    "name": "Sravani Rao",
+    "area": "Secunderabad",
+    "car": "Toyota Innova Crysta",
+    "emi": 33250,
+    "calls": [
+      {
+        "date": "2026-07-05T08:30:00Z",
+        "notes": "EMI of Rs 33250 overdue. Sravani Rao teaches at a private school. Said car was in the service centre for 10 days and no Uber income. Promised full payment by 09 Jul. Very confident on the phone."
+      },
+      {
+        "date": "2026-07-17T08:30:00Z",
+        "notes": "Did NOT pay on promised date. New excuse: salary credited late this month. Promised again for next Monday. Sounds casual, not worried."
+      },
+      {
+        "date": "2026-07-30T08:30:00Z",
+        "notes": "Broke promise again. Now 2 EMIs overdue (Rs 66500). Said 'bro definitely this week'. Pattern: promises easily, rarely pays."
+      },
+      {
+        "date": "2026-08-11T08:30:00Z",
+        "notes": "Firm tone used, mentioned possible field visit and repossession process. Paid Rs 33250 within 2 days. Firmness works, soft requests don't."
+      },
+      {
+        "date": "2026-08-20T08:30:00Z",
+        "notes": "Still 1 EMI pending. Promised 23 Aug, missed it. Only picks up calls between 11 am and 12 noon. Ask for UPI payment during the call itself."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3013",
+    "name": "Rajesh Agarwal",
+    "area": "Dilsukhnagar",
+    "car": "Maruti Brezza",
+    "emi": 15350,
+    "calls": [
+      {
+        "date": "2026-07-02T14:00:00Z",
+        "notes": "Called for overdue EMI Rs 15350. Rajesh Agarwal got angry, shouted 'I know, don't call me again'. Said business slow because of the rains. Call ended abruptly."
+      },
+      {
+        "date": "2026-07-12T14:00:00Z",
+        "notes": "Second call. Still irritated but calmer. Complained about bounce charges of Rs 590. Refused to give a date."
+      },
+      {
+        "date": "2026-07-21T14:00:00Z",
+        "notes": "Senior agent called, spoke softly, offered to check bounce charge waiver. Rajesh calmed down and promised 27 Jul."
+      },
+      {
+        "date": "2026-07-30T14:00:00Z",
+        "notes": "Paid Rs 15350 on promised date. Lesson: aggression makes him defensive; respect + small concession works. Call between 1 and 2 pm (lunch break)."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3014",
+    "name": "Mahesh Babu Pilli",
+    "area": "Uppal",
+    "car": "Mahindra Scorpio-N",
+    "emi": 27750,
+    "calls": [
+      {
+        "date": "2026-07-04T08:45:00Z",
+        "notes": "EMI Rs 27750 overdue. 6 calls, no answer. Sent WhatsApp message, blue ticks seen but no reply."
+      },
+      {
+        "date": "2026-07-14T08:45:00Z",
+        "notes": "Picked up from a different number. Mahesh Babu Pilli runs a mobile repair shop; said had to pay advance for a new shop. Promised 19 Jul. Asked us to WhatsApp instead of calling."
+      },
+      {
+        "date": "2026-07-23T08:45:00Z",
+        "notes": "Did not pay. Not picking calls again. Responded only to WhatsApp message with payment link, said 'will do tonight'."
+      },
+      {
+        "date": "2026-08-01T08:45:00Z",
+        "notes": "Paid Rs 27750 via the WhatsApp payment link at 11 pm. Insight: avoids voice calls, responds to WhatsApp + payment links."
+      },
+      {
+        "date": "2026-08-15T08:45:00Z",
+        "notes": "Overdue again. Said brother's wedding expenses over WhatsApp voice note. Promised in 10 days."
+      },
+      {
+        "date": "2026-08-27T08:45:00Z",
+        "notes": "Paid via link after 2 WhatsApp reminders. If a call is needed, only picks up after 8:30 pm."
+      },
+      {
+        "date": "2026-09-07T08:45:00Z",
+        "notes": "No response for a week. Spouse answered landline and said he is out of station."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3015",
+    "name": "Shaik Khaja Moinuddin",
+    "area": "Kondapur",
+    "car": "Maruti Swift Dzire",
+    "emi": 11000,
+    "calls": [
+      {
+        "date": "2026-07-02T05:15:00Z",
+        "notes": "EMI Rs 11000 overdue. Shaik Khaja Moinuddin is a real-estate agent; said brother's wedding expenses. Vague about dates. Lives in a joint family."
+      },
+      {
+        "date": "2026-07-12T05:15:00Z",
+        "notes": "Missed promised date. Guarantor (father-in-law) was informed politely. Shaik paid Rs 11000 within 3 days after that."
+      },
+      {
+        "date": "2026-07-25T05:15:00Z",
+        "notes": "Due again, not paid. Said daughter's school fees took all savings. Reluctant, keeps saying 'next week'."
+      },
+      {
+        "date": "2026-08-06T05:15:00Z",
+        "notes": "Informed guarantor again. Paid next day. Pattern: pays quickly once family knows; doesn't want elders involved."
+      },
+      {
+        "date": "2026-08-16T05:15:00Z",
+        "notes": "Paid on time this month without follow-up. Only reachable before 10 am."
+      },
+      {
+        "date": "2026-08-28T05:15:00Z",
+        "notes": "Asked us not to call the guarantor again, promised to pay on time. Keep guarantor contact as last resort."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3016",
+    "name": "Swathi Varma",
+    "area": "Attapur",
+    "car": "Maruti Ertiga",
+    "emi": 14800,
+    "calls": [
+      {
+        "date": "2026-07-02T05:15:00Z",
+        "notes": "Missed EMI of Rs 14800. Swathi Varma is a civil contractor; said had to pay advance for a new shop. Very apologetic, polite. Promised to pay by 07 Jul."
+      },
+      {
+        "date": "2026-07-14T05:15:00Z",
+        "notes": "Paid Rs 14800 on 07 Jul as promised. Thanked us for being patient. Best reached on Sunday mornings."
+      },
+      {
+        "date": "2026-07-26T05:15:00Z",
+        "notes": "EMI due again, not paid. Said salary credited late this month. Asked for 7 more days. Calm, respectful tone works well with Swathi."
+      },
+      {
+        "date": "2026-08-07T05:15:00Z",
+        "notes": "Paid half (Rs 7400) and promised balance by 07 Aug. Honest about finances, shares details openly."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3017",
+    "name": "Harish Chandra Goud",
+    "area": "Gachibowli",
+    "car": "Tata Nexon",
+    "emi": 15400,
+    "calls": [
+      {
+        "date": "2026-07-03T05:30:00Z",
+        "notes": "EMI of Rs 15400 overdue. Harish Chandra Goud does wholesale garments business in Begum Bazaar. Said car was in the service centre for 10 days and no Uber income. Promised full payment by 07 Jul. Very confident on the phone."
+      },
+      {
+        "date": "2026-07-13T05:30:00Z",
+        "notes": "Did NOT pay on promised date. New excuse: salary credited late this month. Promised again for next Monday. Sounds casual, not worried."
+      },
+      {
+        "date": "2026-07-22T05:30:00Z",
+        "notes": "Broke promise again. Now 2 EMIs overdue (Rs 30800). Said 'bro definitely this week'. Pattern: promises easily, rarely pays."
+      },
+      {
+        "date": "2026-08-04T05:30:00Z",
+        "notes": "Firm tone used, mentioned possible field visit and repossession process. Paid Rs 15400 within 2 days. Firmness works, soft requests don't."
+      },
+      {
+        "date": "2026-08-18T05:30:00Z",
+        "notes": "Still 1 EMI pending. Promised 21 Aug, missed it. Only picks up calls before 10 am. Ask for UPI payment during the call itself."
+      },
+      {
+        "date": "2026-08-31T05:30:00Z",
+        "notes": "Paid only after field agent visited home. Recommend: no verbal promises, insist on same-day partial payment."
+      },
+      {
+        "date": "2026-09-09T05:30:00Z",
+        "notes": "Missed again. Switched phone off after 2 calls. Escalate to field visit early next cycle."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3018",
+    "name": "Deepak Jain",
+    "area": "LB Nagar",
+    "car": "Toyota Glanza",
+    "emi": 13050,
+    "calls": [
+      {
+        "date": "2026-07-01T13:00:00Z",
+        "notes": "Called for overdue EMI Rs 13050. Deepak Jain got angry, shouted 'I know, don't call me again'. Said a customer payment of Rs 60,000 is stuck. Call ended abruptly."
+      },
+      {
+        "date": "2026-07-11T13:00:00Z",
+        "notes": "Second call. Still irritated but calmer. Complained about bounce charges of Rs 590. Refused to give a date."
+      },
+      {
+        "date": "2026-07-20T13:00:00Z",
+        "notes": "Senior agent called, spoke softly, offered to check bounce charge waiver. Deepak calmed down and promised 26 Jul."
+      },
+      {
+        "date": "2026-08-02T13:00:00Z",
+        "notes": "Paid Rs 13050 on promised date. Lesson: aggression makes him defensive; respect + small concession works. Call between 11 am and 12 noon."
+      },
+      {
+        "date": "2026-08-11T13:00:00Z",
+        "notes": "EMI late again, said daughter's school fees took all savings. Mood okay when approached politely. Promised within a week."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3019",
+    "name": "Bhaskar Rao Kolli",
+    "area": "Kukatpally",
+    "car": "Maruti Brezza",
+    "emi": 15200,
+    "calls": [
+      {
+        "date": "2026-07-06T06:15:00Z",
+        "notes": "EMI Rs 15200 overdue. 6 calls, no answer. Sent WhatsApp message, blue ticks seen but no reply."
+      },
+      {
+        "date": "2026-07-20T06:15:00Z",
+        "notes": "Picked up from a different number. Bhaskar Rao Kolli works as a software tester at a Hitec City firm; said business slow because of the rains. Promised 25 Jul. Asked us to WhatsApp instead of calling."
+      },
+      {
+        "date": "2026-08-03T06:15:00Z",
+        "notes": "Did not pay. Not picking calls again. Responded only to WhatsApp message with payment link, said 'will do tonight'."
+      },
+      {
+        "date": "2026-08-14T06:15:00Z",
+        "notes": "Paid Rs 15200 via the WhatsApp payment link at 11 pm. Insight: avoids voice calls, responds to WhatsApp + payment links."
+      },
+      {
+        "date": "2026-08-24T06:15:00Z",
+        "notes": "Overdue again. Said brother's wedding expenses over WhatsApp voice note. Promised in 10 days."
+      },
+      {
+        "date": "2026-09-04T06:15:00Z",
+        "notes": "Paid via link after 2 WhatsApp reminders. If a call is needed, only picks up after 7 pm."
+      },
+      {
+        "date": "2026-09-16T06:15:00Z",
+        "notes": "No response for a week. Spouse answered landline and said he is out of station."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3020",
+    "name": "Ayesha Siddiqua",
+    "area": "Malakpet",
+    "car": "Honda City",
+    "emi": 19150,
+    "calls": [
+      {
+        "date": "2026-07-02T13:15:00Z",
+        "notes": "EMI Rs 19150 overdue. Ayesha Siddiqua teaches at a private school; said business slow because of the rains. Vague about dates. Lives in a joint family."
+      },
+      {
+        "date": "2026-07-15T13:15:00Z",
+        "notes": "Missed promised date. Guarantor (father-in-law) was informed politely. Ayesha paid Rs 19150 within 3 days after that."
+      },
+      {
+        "date": "2026-07-26T13:15:00Z",
+        "notes": "Due again, not paid. Said medical expenses for mother's surgery. Reluctant, keeps saying 'next week'."
+      },
+      {
+        "date": "2026-08-05T13:15:00Z",
+        "notes": "Informed guarantor again. Paid next day. Pattern: pays quickly once family knows; doesn't want elders involved."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3021",
+    "name": "Suresh Reddy Bommu",
+    "area": "Kompally",
+    "car": "Maruti Brezza",
+    "emi": 15650,
+    "calls": [
+      {
+        "date": "2026-07-05T14:00:00Z",
+        "notes": "Missed EMI of Rs 15650. Suresh Reddy Bommu runs a small kirana store; said business slow because of the rains. Very apologetic, polite. Promised to pay by 10 Jul."
+      },
+      {
+        "date": "2026-07-15T14:00:00Z",
+        "notes": "Paid Rs 15650 on 10 Jul as promised. Thanked us for being patient. Best reached between 11 am and 12 noon."
+      },
+      {
+        "date": "2026-07-26T14:00:00Z",
+        "notes": "EMI due again, not paid. Said GST refund delayed. Asked for 7 more days. Calm, respectful tone works well with Suresh."
+      },
+      {
+        "date": "2026-08-04T14:00:00Z",
+        "notes": "Paid half (Rs 7825) and promised balance by 07 Aug. Honest about finances, shares details openly."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3022",
+    "name": "Padmaja Devi",
+    "area": "Kondapur",
+    "car": "Toyota Innova Crysta",
+    "emi": 33100,
+    "calls": [
+      {
+        "date": "2026-07-05T04:00:00Z",
+        "notes": "EMI of Rs 33100 overdue. Padmaja Devi is a real-estate agent. Said business slow because of the rains. Promised full payment by 09 Jul. Very confident on the phone."
+      },
+      {
+        "date": "2026-07-19T04:00:00Z",
+        "notes": "Did NOT pay on promised date. New excuse: medical expenses for mother's surgery. Promised again for next Monday. Sounds casual, not worried."
+      },
+      {
+        "date": "2026-07-31T04:00:00Z",
+        "notes": "Broke promise again. Now 2 EMIs overdue (Rs 66200). Said 'bro definitely this week'. Pattern: promises easily, rarely pays."
+      },
+      {
+        "date": "2026-08-11T04:00:00Z",
+        "notes": "Firm tone used, mentioned possible field visit and repossession process. Paid Rs 33100 within 2 days. Firmness works, soft requests don't."
+      },
+      {
+        "date": "2026-08-20T04:00:00Z",
+        "notes": "Still 1 EMI pending. Promised 23 Aug, missed it. Only picks up calls after 8:30 pm. Ask for UPI payment during the call itself."
+      },
+      {
+        "date": "2026-08-29T04:00:00Z",
+        "notes": "Paid only after field agent visited home. Recommend: no verbal promises, insist on same-day partial payment."
+      },
+      {
+        "date": "2026-09-09T04:00:00Z",
+        "notes": "Missed again. Switched phone off after 2 calls. Escalate to field visit early next cycle."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3023",
+    "name": "Vamshi Krishna",
+    "area": "LB Nagar",
+    "car": "Mahindra Scorpio-N",
+    "emi": 27100,
+    "calls": [
+      {
+        "date": "2026-07-02T04:15:00Z",
+        "notes": "Called for overdue EMI Rs 27100. Vamshi Krishna got angry, shouted 'I know, don't call me again'. Said medical expenses for mother's surgery. Call ended abruptly."
+      },
+      {
+        "date": "2026-07-15T04:15:00Z",
+        "notes": "Second call. Still irritated but calmer. Complained about bounce charges of Rs 590. Refused to give a date."
+      },
+      {
+        "date": "2026-07-24T04:15:00Z",
+        "notes": "Senior agent called, spoke softly, offered to check bounce charge waiver. Vamshi calmed down and promised 30 Jul."
+      },
+      {
+        "date": "2026-08-04T04:15:00Z",
+        "notes": "Paid Rs 27100 on promised date. Lesson: aggression makes him defensive; respect + small concession works. Call after 7 pm."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3024",
+    "name": "Imran Khan Pathan",
+    "area": "Nacharam",
+    "car": "Kia Seltos",
+    "emi": 22550,
+    "calls": [
+      {
+        "date": "2026-07-02T06:45:00Z",
+        "notes": "EMI Rs 22550 overdue. 6 calls, no answer. Sent WhatsApp message, blue ticks seen but no reply."
+      },
+      {
+        "date": "2026-07-15T06:45:00Z",
+        "notes": "Picked up from a different number. Imran Khan Pathan works in a pharma company in Genome Valley; said salary credited late this month. Promised 20 Jul. Asked us to WhatsApp instead of calling."
+      },
+      {
+        "date": "2026-07-29T06:45:00Z",
+        "notes": "Did not pay. Not picking calls again. Responded only to WhatsApp message with payment link, said 'will do tonight'."
+      },
+      {
+        "date": "2026-08-08T06:45:00Z",
+        "notes": "Paid Rs 22550 via the WhatsApp payment link at 11 pm. Insight: avoids voice calls, responds to WhatsApp + payment links."
+      },
+      {
+        "date": "2026-08-18T06:45:00Z",
+        "notes": "Overdue again. Said medical expenses for mother's surgery over WhatsApp voice note. Promised in 10 days."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3025",
+    "name": "Ramesh Nayak",
+    "area": "Miyapur",
+    "car": "Tata Punch",
+    "emi": 9950,
+    "calls": [
+      {
+        "date": "2026-07-03T14:00:00Z",
+        "notes": "EMI Rs 9950 overdue. Ramesh Nayak runs a mobile repair shop; said business slow because of the rains. Vague about dates. Lives in a joint family."
+      },
+      {
+        "date": "2026-07-15T14:00:00Z",
+        "notes": "Missed promised date. Guarantor (father-in-law) was informed politely. Ramesh paid Rs 9950 within 3 days after that."
+      },
+      {
+        "date": "2026-07-24T14:00:00Z",
+        "notes": "Due again, not paid. Said daughter's school fees took all savings. Reluctant, keeps saying 'next week'."
+      },
+      {
+        "date": "2026-08-05T14:00:00Z",
+        "notes": "Informed guarantor again. Paid next day. Pattern: pays quickly once family knows; doesn't want elders involved."
+      },
+      {
+        "date": "2026-08-15T14:00:00Z",
+        "notes": "Paid on time this month without follow-up. Only reachable between 1 and 2 pm (lunch break)."
+      },
+      {
+        "date": "2026-08-25T14:00:00Z",
+        "notes": "Asked us not to call the guarantor again, promised to pay on time. Keep guarantor contact as last resort."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3026",
+    "name": "Divya Teja",
+    "area": "Chengicherla",
+    "car": "Mahindra XUV700",
+    "emi": 30200,
+    "calls": [
+      {
+        "date": "2026-07-02T06:30:00Z",
+        "notes": "Missed EMI of Rs 30200. Divya Teja does wholesale garments business in Begum Bazaar; said a customer payment of Rs 60,000 is stuck. Very apologetic, polite. Promised to pay by 07 Jul."
+      },
+      {
+        "date": "2026-07-16T06:30:00Z",
+        "notes": "Paid Rs 30200 on 07 Jul as promised. Thanked us for being patient. Best reached between 1 and 2 pm (lunch break)."
+      },
+      {
+        "date": "2026-07-29T06:30:00Z",
+        "notes": "EMI due again, not paid. Said business slow because of the rains. Asked for 7 more days. Calm, respectful tone works well with Divya."
+      },
+      {
+        "date": "2026-08-10T06:30:00Z",
+        "notes": "Paid half (Rs 15100) and promised balance by 10 Aug. Honest about finances, shares details openly."
+      },
+      {
+        "date": "2026-08-24T06:30:00Z",
+        "notes": "Paid the balance on time. Requested SMS reminder 3 days before due date. Low risk, just needs flexibility."
+      },
+      {
+        "date": "2026-09-06T06:30:00Z",
+        "notes": "Paid on due date this month without a call. Relationship is good. Keep tone friendly, never threaten."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3027",
+    "name": "Sai Charan Varma",
+    "area": "Kukatpally",
+    "car": "Maruti Swift Dzire",
+    "emi": 11200,
+    "calls": [
+      {
+        "date": "2026-07-06T14:30:00Z",
+        "notes": "EMI of Rs 11200 overdue. Sai Charan Varma runs a tiffin centre. Said business slow because of the rains. Promised full payment by 10 Jul. Very confident on the phone."
+      },
+      {
+        "date": "2026-07-18T14:30:00Z",
+        "notes": "Did NOT pay on promised date. New excuse: salary credited late this month. Promised again for next Monday. Sounds casual, not worried."
+      },
+      {
+        "date": "2026-07-31T14:30:00Z",
+        "notes": "Broke promise again. Now 2 EMIs overdue (Rs 22400). Said 'bro definitely this week'. Pattern: promises easily, rarely pays."
+      },
+      {
+        "date": "2026-08-13T14:30:00Z",
+        "notes": "Firm tone used, mentioned possible field visit and repossession process. Paid Rs 11200 within 2 days. Firmness works, soft requests don't."
+      },
+      {
+        "date": "2026-08-22T14:30:00Z",
+        "notes": "Still 1 EMI pending. Promised 25 Aug, missed it. Only picks up calls after 8:30 pm. Ask for UPI payment during the call itself."
+      },
+      {
+        "date": "2026-09-03T14:30:00Z",
+        "notes": "Paid only after field agent visited home. Recommend: no verbal promises, insist on same-day partial payment."
+      },
+      {
+        "date": "2026-09-16T14:30:00Z",
+        "notes": "Missed again. Switched phone off after 2 calls. Escalate to field visit early next cycle."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3028",
+    "name": "Nagaraju Pasula",
+    "area": "Nacharam",
+    "car": "Toyota Glanza",
+    "emi": 13050,
+    "calls": [
+      {
+        "date": "2026-07-06T08:00:00Z",
+        "notes": "Called for overdue EMI Rs 13050. Nagaraju Pasula got angry, shouted 'I know, don't call me again'. Said business slow because of the rains. Call ended abruptly."
+      },
+      {
+        "date": "2026-07-20T08:00:00Z",
+        "notes": "Second call. Still irritated but calmer. Complained about bounce charges of Rs 590. Refused to give a date."
+      },
+      {
+        "date": "2026-07-31T08:00:00Z",
+        "notes": "Senior agent called, spoke softly, offered to check bounce charge waiver. Nagaraju calmed down and promised 06 Aug."
+      },
+      {
+        "date": "2026-08-13T08:00:00Z",
+        "notes": "Paid Rs 13050 on promised date. Lesson: aggression makes him defensive; respect + small concession works. Call after 7 pm."
+      },
+      {
+        "date": "2026-08-24T08:00:00Z",
+        "notes": "EMI late again, said got laid off and is looking for a job. Mood okay when approached politely. Promised within a week."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3029",
+    "name": "Rizwana Fatima",
+    "area": "Malakpet",
+    "car": "Kia Seltos",
+    "emi": 22200,
+    "calls": [
+      {
+        "date": "2026-07-03T05:45:00Z",
+        "notes": "EMI Rs 22200 overdue. 6 calls, no answer. Sent WhatsApp message, blue ticks seen but no reply."
+      },
+      {
+        "date": "2026-07-17T05:45:00Z",
+        "notes": "Picked up from a different number. Rizwana Fatima runs a mobile repair shop; said business slow because of the rains. Promised 22 Jul. Asked us to WhatsApp instead of calling."
+      },
+      {
+        "date": "2026-07-29T05:45:00Z",
+        "notes": "Did not pay. Not picking calls again. Responded only to WhatsApp message with payment link, said 'will do tonight'."
+      },
+      {
+        "date": "2026-08-12T05:45:00Z",
+        "notes": "Paid Rs 22200 via the WhatsApp payment link at 11 pm. Insight: avoids voice calls, responds to WhatsApp + payment links."
+      },
+      {
+        "date": "2026-08-26T05:45:00Z",
+        "notes": "Overdue again. Said had to pay advance for a new shop over WhatsApp voice note. Promised in 10 days."
+      },
+      {
+        "date": "2026-09-05T05:45:00Z",
+        "notes": "Paid via link after 2 WhatsApp reminders. If a call is needed, only picks up between 11 am and 12 noon."
+      }
+    ]
+  },
+  {
+    "id": "borrower-3030",
+    "name": "Anil Kumar Mekala",
+    "area": "Bahadurpura",
+    "car": "Tata Nexon",
+    "emi": 15750,
+    "calls": [
+      {
+        "date": "2026-07-06T08:45:00Z",
+        "notes": "EMI Rs 15750 overdue. Anil Kumar Mekala runs a travels business with 2 cars; said a customer payment of Rs 60,000 is stuck. Vague about dates. Lives in a joint family."
+      },
+      {
+        "date": "2026-07-18T08:45:00Z",
+        "notes": "Missed promised date. Guarantor (father-in-law) was informed politely. Anil paid Rs 15750 within 3 days after that."
+      },
+      {
+        "date": "2026-08-01T08:45:00Z",
+        "notes": "Due again, not paid. Said business slow because of the rains. Reluctant, keeps saying 'next week'."
+      },
+      {
+        "date": "2026-08-11T08:45:00Z",
+        "notes": "Informed guarantor again. Paid next day. Pattern: pays quickly once family knows; doesn't want elders involved."
+      },
+      {
+        "date": "2026-08-24T08:45:00Z",
+        "notes": "Paid on time this month without follow-up. Only reachable between 11 am and 12 noon."
+      },
+      {
+        "date": "2026-09-05T08:45:00Z",
+        "notes": "Asked us not to call the guarantor again, promised to pay on time. Keep guarantor contact as last resort."
+      },
+      {
+        "date": "2026-09-19T08:45:00Z",
+        "notes": "Late by 4 days, paid after one reminder call. Mood cooperative."
+      }
+    ]
+  }
+]
