@@ -1,0 +1,4 @@
+hindsight-client
+openai
+streamlit
+python-dotenv

@@ -8,16 +8,22 @@ Memory design (Hindsight banks):
 """
 import os
 import re
+import time
 import json
 from datetime import datetime, timezone
 from dotenv import load_dotenv
 from hindsight_client import Hindsight
 from openai import OpenAI
 
-load_dotenv()
+# Load the .env file that sits next to this agent.py (works from any folder)
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env"))
+
+if not os.getenv("GROQ_API_KEY") or not os.getenv("HINDSIGHT_API_KEY"):
+    raise SystemExit("Missing keys! Make sure a file named exactly .env is in the memory-agent folder "
+                     "with GROQ_API_KEY, HINDSIGHT_URL and HINDSIGHT_API_KEY.")
 
 # ---- Connections ----
-hs = Hindsight(base_url=os.getenv("HINDSIGHT_URL"), api_key=os.getenv("HINDSIGHT_API_KEY"))
+hs = Hindsight(base_url=os.getenv("HINDSIGHT_URL") or "https://api.hindsight.vectorize.io", api_key=os.getenv("HINDSIGHT_API_KEY"))
 llm = OpenAI(api_key=os.getenv("GROQ_API_KEY"), base_url="https://api.groq.com/openai/v1")
 MODEL = "openai/gpt-oss-120b"
 
@@ -155,14 +161,19 @@ def learn_lessons():
     question = ("Look at all collection calls. Write 5 short, specific lessons about which approach "
                 "gets which type of borrower to pay (tone, timing, channel like WhatsApp, guarantor, "
                 "partial payments). One lesson per line.")
-    try:
-        answer = hs.reflect(bank_id=TEAM_BANK, query=question)
-        lessons = getattr(answer, "text", str(answer))
-    except Exception as error:
-        return "Could not learn right now: " + str(error)
-
-    hs.retain(bank_id=LESSONS_BANK, content=lessons, context="learned recovery lessons", timestamp=_now())
-    return lessons
+    last_error = ""
+    for attempt in range(3):  # network can be flaky - try 3 times
+        try:
+            answer = hs.reflect(bank_id=TEAM_BANK, query=question)
+            lessons = getattr(answer, "text", str(answer))
+            hs.retain(bank_id=LESSONS_BANK, content=lessons,
+                      context="learned recovery lessons", timestamp=_now())
+            return True, lessons
+        except Exception as error:
+            last_error = str(error)
+            print("Hindsight failed, trying again...", error)
+            time.sleep(3)
+    return False, "Could not reach Hindsight. Check your internet and try again. (" + last_error + ")"
 
 
 def team_insights(question):

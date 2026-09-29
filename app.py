@@ -80,9 +80,13 @@ with tab3:
     st.markdown("**Step 1 — Learn:** the agent reflects on every call and saves the lessons into its memory. "
                 "From then on, every brief uses these lessons.")
     if st.button("Learn from all calls", type="primary"):
-        with st.spinner("Reflecting on all calls..."):
-            st.write(learn_lessons())
-        st.success("Lessons saved to the team-lessons memory.")
+        with st.spinner("Reflecting on all calls... (can take up to a minute)"):
+            ok, result = learn_lessons()
+        if ok:
+            st.write(result)
+            st.success("Lessons saved to the team-lessons memory.")
+        else:
+            st.error(result)
 
     st.divider()
     st.markdown("**Step 2 — Ask anything about all borrowers:**")
